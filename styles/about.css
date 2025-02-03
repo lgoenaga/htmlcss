@@ -70,9 +70,6 @@ body {
 }
 
 @media (max-width: 1080px) {
-	html {
-		font-size: 10px;
-	}
 
 	.container__about {
 		width: 77%; /* 1440px */
